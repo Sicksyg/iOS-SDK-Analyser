@@ -1,0 +1,6 @@
+[submodule "iOS-SDK-Signatures"]
+	path = iOS-SDK-Signatures
+	url = https://github.com/Sicksyg/iOS-SDK-Signatures
+[submodule "iOS_ProtectedResources"]
+	path = iOS_ProtectedResources
+	url = https://github.com/Sicksyg/iOS_ProtectedResources

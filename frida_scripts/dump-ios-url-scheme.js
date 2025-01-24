@@ -32,12 +32,11 @@ if (ObjC.available) { // Checks for ObjC codebase
 			}
 			var url = request.URL().toString()
 			var url_string = url//.slice(0, url.indexOf("/", 10) + 1)  //<--- Moved to main script
-			
+
 			// Sends data to python scripy
 			send(url_string)
 		}
 	})
-
 
 } else {
 	if (Swift.available) {

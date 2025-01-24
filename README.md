@@ -52,6 +52,7 @@ To install and set up the project, follow these steps:
 
 - [x] Initial project setup
 - [ ] Implement central CLI
+- [ ] Create frida API and expose to python
 - [ ] Add verbose 
 - [ ] Improve documentation for Frida
 - [ ] Implement jailbreak detection script

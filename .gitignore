@@ -175,3 +175,8 @@ cython_debug/
 
 # Mac OS
 .DS_Store
+
+# Project specific
+ipa_files/
+output/
+config.json

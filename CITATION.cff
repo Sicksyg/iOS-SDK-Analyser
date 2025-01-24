@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the following reference."
+authors:
+  - family-names: Lomborg
+    given-names: Stine.
+  - family-names: Sick
+    given-names: Kristian.
+  - family-names: Flensburg
+    given-names: Sofie.
+  - family-names: Sophus Lai
+    given-names: Signe.
+title: "Monitoring infrastructural power: Methodological challenges in studying mobile infrastructures for datafication"
+version: 1.0.0
+doi: 10.14763/2024.2.1763
+date-released: 2024-06-26
+url: "https://doi.org/10.14763/2024.2.1763"
+repository-code: "https://github.com/Sicksyg/iOS-SDK-Analyser"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Lomborg
+      given-names: S.
+    - family-names: Sick
+      given-names: K.
+    - family-names: Flensburg
+      given-names: S.
+    - family-names: Sophus Lai
+      given-names: S.
+  title: "Monitoring infrastructural power: Methodological challenges in studying mobile infrastructures for datafication"
+  journal: "Internet Policy Review"
+  volume: 13
+  issue: 2
+  year: 2024
+  doi: 10.14763/2024.2.1763

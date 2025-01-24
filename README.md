@@ -1,6 +1,8 @@
 # iOS SDK Analyser
 
-This project is an iOS SDK analyser using Frida and libimobiletools.
+This python program allows you to analyse iOS apps to find evidence of third-party libraries.
+The program is divided into two analytical methods: Static - The identification of known SDKs used by an app , and Dynamic - The identification of domains used by an app.
+
 
 ## Requirements
 
@@ -46,6 +48,12 @@ To install and set up the project, follow these steps:
 6. **Configure your Apple ID**:
     - Use the spare Apple ID to sign in on your jailbroken iPhone.
     - Ensure that the Apple ID is properly configured to avoid any interruptions during the analysis process.
+
+## Using the program
+
+
+### Static analysis
+![iOS SDK Analyser](https://policyreview.info/sites/default/files/assets/images/node-1763/2.png)
 
 
 ## Project Status

@@ -19,7 +19,7 @@ To install and set up the project, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/iOS_SDK_ANALYSER.git
+    git clone --recursive https://github.com/yourusername/iOS_SDK_ANALYSER.git
     cd iOS_SDK_ANALYSER
     ```
 

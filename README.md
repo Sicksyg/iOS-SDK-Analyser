@@ -62,7 +62,7 @@ To install and set up the project, follow these steps:
 - [ ] Implement central CLI
 - [ ] Write a utility script (App downloads, Search, etc.)
 - [ ] Create frida API and expose to python
-- [ ] Add verbose 
+- [ ] Add verbose options
 - [ ] Improve documentation for Frida
 - [ ] Implement jailbreak detection script
 - [ ] Documentation for jailbreak
@@ -71,6 +71,6 @@ To install and set up the project, follow these steps:
 ## License
 
 This repository is licensed under Creative Commons Attribution 4.0 International CC BY 4.0.
-This repository is created by the ERC funded reseach project Datafied Living at The University of Copenhagen
+This project and its works are funded by the ERC research project, Datafied Living at The University of Copenhagen.
 
 ## 

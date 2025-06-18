@@ -3,6 +3,8 @@
 This python program allows you to analyse iOS apps to find evidence of third-party libraries.
 The program is divided into two analytical methods: Static - The identification of known SDKs used by an app , and Dynamic - The identification of domains used by an app.
 
+### A paper 
+A detailed account of the methodology is provided in [Monitoring infrastructural power: Methodological challenges in studying mobile infrastructures for datafication](https://doi.org/10.14763/2024.2.1763) by Lomborg, S., Sick Svendsen, K., Flensburg, S., & Sophus Lai, S. (2024)
 
 ## Requirements
 
@@ -71,7 +73,6 @@ To install and set up the project, follow these steps:
 ## License
 
 This repository is licensed under Creative Commons Attribution 4.0 International CC BY 4.0.
-
 
 This dataset/library is part of a project that has received funding from the European Research Council (ERC) under
 the European Union’s Horizon 2020 research and innovation programme [Datafied Living at The University of Copenhagen](https://datafiedliving.ku.dk/) (Grant agreement ID: 947735) 

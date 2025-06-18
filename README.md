@@ -7,6 +7,8 @@ The program is divided into two analytical methods: Static - The identification 
 A detailed account of the methodology is provided in [Monitoring infrastructural power: Methodological challenges in studying mobile infrastructures for datafication](https://doi.org/10.14763/2024.2.1763) by Lomborg, S., Sick Svendsen, K., Flensburg, S., & Sophus Lai, S. (2024)
 If you use this software, please cite the provided paper.
 
+
+
 ## Requirements
 
 Before you begin, ensure you have the following dependencies:

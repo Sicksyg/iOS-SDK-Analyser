@@ -3,8 +3,9 @@
 This python program allows you to analyse iOS apps to find evidence of third-party libraries.
 The program is divided into two analytical methods: Static - The identification of known SDKs used by an app , and Dynamic - The identification of domains used by an app.
 
-### A paper 
+### Research paper
 A detailed account of the methodology is provided in [Monitoring infrastructural power: Methodological challenges in studying mobile infrastructures for datafication](https://doi.org/10.14763/2024.2.1763) by Lomborg, S., Sick Svendsen, K., Flensburg, S., & Sophus Lai, S. (2024)
+If you use this software, please cite the provided paper.
 
 ## Requirements
 

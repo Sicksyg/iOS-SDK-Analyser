@@ -71,6 +71,12 @@ To install and set up the project, follow these steps:
 ## License
 
 This repository is licensed under Creative Commons Attribution 4.0 International CC BY 4.0.
-This project and its works are funded by the ERC research project, Datafied Living at The University of Copenhagen.
+
+
+This dataset/library is part of a project that has received funding from the European Research Council (ERC) under
+the European Union’s Horizon 2020 research and innovation programme [Datafied Living at The University of Copenhagen](https://datafiedliving.ku.dk/) (Grant agreement ID: 947735) 
+
+![image](https://github.com/user-attachments/assets/fe732ac6-0468-4421-a7a6-62e7b24c1633)
+![image](https://designguide.ku.dk/download/co-branding/ku_co_uk_h.jpg)
 
 ## 

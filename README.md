@@ -64,14 +64,11 @@ To install and set up the project, follow these steps:
 ## Project Status
 
 - [x] Initial project setup
-- [ ] Implement central CLI
-- [ ] Write a utility script (App downloads, Search, etc.)
-- [ ] Create frida API and expose to python
+- [x] Implement central CLI
+- [x] Write a utility script (App downloads, Search, etc.)
 - [ ] Add verbose options
 - [ ] Improve documentation for Frida
 - [ ] Implement jailbreak detection script
-- [ ] Documentation for jailbreak
-- [ ] Documentation for ipatool
 
 ## License
 

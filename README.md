@@ -34,14 +34,15 @@ To install and set up the project, follow these steps:
     source venv/bin/activate
     ```
 
-3. **Install dependencies**:
+3. **Install python dependencies**:
     ```sh
     pip install -r requirements.txt
     ```
 
-4. **Set up Frida and libimobiletools**:
+4. **Set up Frida, Ipatool and libimobiletools**:
     - Follow the official [Frida installation guide](https://frida.re/docs/installation/).
     - Follow the official [libimobiletools installation guide](https://libimobiledevice.org/).
+    - Follow the official [ipatool guide](https://github.com/majd/ipatool?tab=readme-ov-file#installation)
 
 5. **Connect your jailbroken iPhone**:
     - Ensure your iPhone is connected to your computer using the USB-A to Lightning cable.

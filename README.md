@@ -11,7 +11,7 @@ If you use this software, please cite the provided paper.
 
 ## Requirements
 
-Before you begin, ensure you have the following dependencies:
+Before you begin, ensure you have the following parts:
 
 - **Operating System**: MacOS or Linux
 - **Device**: Jailbroken iPhone
